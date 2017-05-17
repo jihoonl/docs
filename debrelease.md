@@ -11,3 +11,4 @@ Prerequisite
 2. cd ceres-solver*
 3. dch -Dtrusty -l"~trusty" "Rebuild for trusty"
 4. debuild -S
+5. dput ppa:xxx/xxx <xxx_source.changes>
